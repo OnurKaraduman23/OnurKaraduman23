@@ -10,8 +10,8 @@
 ### ✨&nbsp; About Me
 
 - I graduated from Kahramanmaraş Sütçü İmam University Computer Engineering Department.<br>
-- During my university education; <b>Embedded Systems</b>, <b>Image Processing</b>, <b>IOT</b>, <b>Web</b> <br>
-- I worked on areas such as Development and Android Mobile Application Development. This
+- During my university education; <b>Embedded Systems</b>, <b>Image Processing</b>, <b>IOT</b>, <b>Web Development</b> <br>
+- I worked on areas such  as Android Mobile Application Development. This
 Undoubtedly, "Android Mobile Application Development" is the area that I enjoy the most. I realized that it is "development". My biggest passion is to improve myself in this field and
 is to be a part of major projects developed in this field.
 
