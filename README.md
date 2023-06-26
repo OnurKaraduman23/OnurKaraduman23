@@ -9,7 +9,7 @@
 
 ### ✨&nbsp; About Me
 
--I graduated from Kahramanmaraş Sütçü İmam University Computer Engineering Department.<br>
+- I graduated from Kahramanmaraş Sütçü İmam University Computer Engineering Department.<br>
 -During my university education; <b>Embedded Systems</b>, <b>Image Processing</b>, <b>IOT</b>, <b>Web</b>
 -I worked on areas such as Development and Android Mobile Application Development. This
 Undoubtedly, "Android Mobile Application" is the area that I enjoy the most.
