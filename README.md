@@ -3,7 +3,7 @@
 
 
 - 💻 Computer Engineer
-- 📱 Android Developer (noob)
+- 📱 Android Developer (Jr.)
 - 🥇 I Love Kotlin
   
 
