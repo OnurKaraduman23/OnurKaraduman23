@@ -19,4 +19,4 @@
 ---
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/onur-yasar-karaduman-1a6784199/" target="blank"><img align="center" src="https://github.com/Honor13/Honor13/assets/53227891/78edda4e-d0f2-441f-9d08-9002d2c3f522" alt="alt yazı" width="50" height = "50" /></a>
+<a href="https://www.linkedin.com/in/onur-yasar-karaduman-1a6784199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onur-linked-in" height="30" width="40" /></a>
