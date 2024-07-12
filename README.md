@@ -1,7 +1,6 @@
+<h1 align="center">Onur Yasar KARADUMAN</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika+Negative&size=30&duration=3500&pause=1000&color=31CBC0&center=true&vCenter=true&random=false&width=435&lines=HELLO+THERE!++%F0%9F%91%BE++WELCOME++%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;MY+NAME+IS+ONUR+%F0%9F%91%8B+)](https://git.io/typing-svg)
-
- [<img align="right" src="https://makeanapplike.com/wp-content/uploads/2021/09/how-much-does-it-cost-to-set-up-an-app.gif" alt="alt yazı" width="300" height = "250">](https://www.linkedin.com/in/onur-yasar-karaduman-1a6784199/)
+ [<img align="right" src="https://makeanapplike.com/wp-content/uploads/2021/09/how-much-does-it-cost-to-set-up-an-app.gif" alt="write" width="300" height = "250">](https://www.linkedin.com/in/onur-yasar-karaduman-1a6784199/)
 - 💻 Computer Engineer
 - 📱 Android Developer                             
 - 🥇 I Love Kotlin
